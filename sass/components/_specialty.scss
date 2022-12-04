@@ -1,0 +1,23 @@
+.specbox-icon {
+    width: 270px;
+    height: 120px;
+    margin: 0;
+    background-color: $button-color;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.specialty__title {
+    margin-top: $margin-gap-set;
+
+    color: $titel-text-color;
+    font-size: 14px;
+    line-height: 1.14;
+    text-transform: uppercase;
+}
+.specialty__text{
+    margin-top: 10px;
+
+    font-size: 14px;
+    line-height: 1.7;
+}
